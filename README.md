@@ -13,3 +13,9 @@ Vous pouvez consulter le site de bohemia à l'adresse http://amar.arma3.fr/ conc
 Vous devez bien entendu laissez les noms/indications "SFP - By Maxou" ou "www.sfpteam.fr" sur la mission !!!!
 
 Ne modifier que les fichiers dans le dossier config si vous ne savez pas coder !!!
+
+N'oubliez pas de m'encourager en faisant un don ici : 
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=92QSQTB9CRNCL
+
+Merci ;)
